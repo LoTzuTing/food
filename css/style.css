@@ -80,7 +80,7 @@ ul{
     padding: 16.5em 0 ;
 }
 .banner_text_w3layouts h3 {
-    color: #7fbb00;
+    color: #2ebaef;
     font-size: 3em;
     margin: 0;
     font-weight: 500;
@@ -101,13 +101,13 @@ ul{
     text-decoration: none;
     margin: 0;
 	font-size: 1em;
-    border: 2px solid#7fbb00;
+    border: 2px solid#2ebaef;
 	background:none;
 	font-weight: 700;
     text-transform: uppercase;
 }
 .w3-button a:hover{
-color: #7fbb00;
+color: #2ebaef;
 border-color:#FFf;
   
 }
@@ -333,7 +333,7 @@ ul.list-right li{
 }
 ul.list-right.w3l li i {
     font-size: 1.5em;
-    color: #7fbb00;
+    color: #2ebaef;
     padding: 0.5em;
 }
 ul.list-right.w3l {
@@ -352,7 +352,7 @@ h3.agileits-title {
     font-size: 2.5em;
     text-transform: uppercase;
     font-weight: 500;
-    color: #7fbb00;
+    color: #2ebaef;
     margin-bottom: 1em;
     font-family: 'Redressed', cursive;
 }
@@ -368,7 +368,7 @@ h3.about-head {
 }
 .about-content1 h4 {
     font-size: 1.2em;
-    color: #7fbb00;
+    color: #2ebaef;
 	line-height:1.5;
 }
 .agileits-aboutright {
@@ -386,7 +386,7 @@ h3.about-head {
     margin: 1em 0 0;
 }
 .agileits-aboutright.about-bottom ,.agileits-aboutright.about-bottom1{
-    background: #7fbb00;
+    background: #2ebaef;
     width: 49.3%;
     margin-right: 1em;
     padding: 2em;
@@ -439,14 +439,14 @@ div#team,.w3l-about.sponsors {
 .nav-tabs > li.active > a, .nav-tabs > li.active > a:hover, .nav-tabs > li.active > a:focus {
     color: #ffffff;
     cursor: default;
-    background: #7fbb00;
-    border: solid 2px #7fbb00;
+    background: #2ebaef;
+    border: solid 2px #2ebaef;
 }
 .nav-tabs > li > a {
     margin-right: 3px;
     font-size: 1em;
     color: #212121;
-    border: solid 2px #7fbb00;
+    border: solid 2px #2ebaef;
     border-radius: 0px;
 	-webkit-border-radius: 0px;
 	-ms-border-radius: 0px;
@@ -469,8 +469,8 @@ div#team,.w3l-about.sponsors {
 }
 .nav-tabs > li > a:hover {
     color: #FFFFFF;
-    background: #7fbb00;
-    border: solid 2px #7fbb00;
+    background: #2ebaef;
+    border: solid 2px #2ebaef;
 }
 .w3_tab_img_left {
 	padding:0;
@@ -501,7 +501,7 @@ div#team,.w3l-about.sponsors {
 	-ms-transition: 0.5s all;
 }
 .w3_tab_img_left:hover .agile-gallery-info{
-	background: #7fbb00;
+	background: #2ebaef;
 	color:#FFFFFF;
 }
 .w3_tab_img_left:hover .agile-gallery-info p{
@@ -510,7 +510,7 @@ div#team,.w3l-about.sponsors {
 /*-- //gallery --*/
 /*-- service --*/
 div#services {
-    background: #7fbb00;
+    background: #2ebaef;
 }
 .w3-agile-title{
 	position:relative;
@@ -633,7 +633,7 @@ div#services {
 	background: rgba(27, 33, 16, 0.67);
 }
 .agile_timing_right  a{
-	color: #7fbb00;
+	color: #2ebaef;
     text-decoration: none;
     display: block;
     margin-bottom: 1em;
@@ -659,7 +659,7 @@ div#services {
 	color:#fff;
 }
 li.wthree-time-title {
-    background: #7fbb00;
+    background: #2ebaef;
     padding: 0.2em 1em;
     display: inline-block;
 }
@@ -693,7 +693,7 @@ li.wthree-time-title {
 }
 .agileinfo-contactright input[type="text"],.agileinfo-contactright input[type="email"]{
     font-size: 1em;
-    border: 1px solid #7fbb00;
+    border: 1px solid #2ebaef;
     background: #fff;
     outline: none;
     padding: 0.7em;
@@ -710,30 +710,30 @@ li.wthree-time-title {
 	outline:none;
 	resize:none;
 	height:100px;
-	border:1px solid #7fbb00;
+	border:1px solid #2ebaef;
 	font-size:1em;
 	background:#fff;
 	color:#000;
 }
 .agileinfo-contactright input[type="submit"] {
-    background: #7fbb00;
+    background: #2ebaef;
     color: #000000;
     padding: .9em 1.8em;
     margin-top: 1.3em;
-    border: 1px solid #7fbb00;
+    border: 1px solid #2ebaef;
     outline: none;
     font-size: 0.9em;
 }
 .agileinfo-contactright input[type="submit"]:hover {
     background: transparent;
-    color: #7fbb00;
-    border: 1px solid #7fbb00;
+    color: #2ebaef;
+    border: 1px solid #2ebaef;
 }
 .agileinfo-contactright,.agileinfo-contactleft{
     padding: 3em;
 }
 .agileinfo-contactright {
-    border-left: 1px solid #7fbb00;
+    border-left: 1px solid #2ebaef;
 }
 .agileinfo-contactleft p {
     color: #000;
@@ -768,7 +768,7 @@ p.address {
     padding-right: 1.5em;
 }
 .agileinfo-social-grids li a{
-	color:#7fbb00;
+	color:#2ebaef;
 	font-size:1em;
 }
 .agileinfo-social-grids li a:hover{
@@ -1187,7 +1187,7 @@ button.btn1:hover {
 		width: 52%;
 	}
 	.agileinfo-contactright {
-		border-top: 1px solid #7fbb00;
+		border-top: 1px solid #2ebaef;
 		border-left:none;
 	}
 }
