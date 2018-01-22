@@ -1569,3 +1569,17 @@ button.btn1:hover {
   border-color: #2ebaef;
 }
 /*-- //social-icons --*/ 
+
+/*-- slider-up-arrow --*/
+ 1674  #toTop {
+ 1675      display: none;
+ ....
+ 1683      border: none;
+ 1684      text-indent: 100%;
+ 1685:     background: url("../images/arrow.png") no-repeat 0px 0px;
+ 1686   -webkit-transform: scale(0.85);
+ 1687   -moz-transform: scale(0.85);
+ ....
+ 1711   transform: scale(1);
+ 1712  }
+ 1713: /*-- //slider-up-arrow --*/
