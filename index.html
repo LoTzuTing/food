@@ -50,7 +50,8 @@ Smartphone Compatible web template, free webdesigns for Nokia, Samsung, LG, Sony
 	<ul class="list-right w3l">
 				<li><i class="fa fa-map-marker" aria-hidden="true"></i>  <span> 947
 台灣屏東縣滿州鄉屏東縣滿州鄉茶山路457之10號 </span></li>
-				<li><i class="fa fa-phone list-icon" aria-hidden="true"></i> <span> 08-8801727 </span></li>	
+				<li><i class="fa fa-phone list-icon" aria-hidden="true"></i> <span> 08-8801727 </span></li>
+				<li><i class="fa fa-mobile list-icon" aria-hidden="true"></i></span><span> 0939-960-303 </span></li>
 		</ul>
 		<div class="fat-nav">
 			<div class="fat-nav__wrapper">
@@ -1610,7 +1611,36 @@ $(window).load(function() {
 		imgHeight: 768
 	})
 </script>
-
+<!-- start-smooth-scrolling -->
+<script type="text/javascript" src="js/move-top.js"></script>
+<script type="text/javascript" src="js/easing.js"></script>	
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$(".scroll").click(function(event){		
+			event.preventDefault();
+			
+	$('html,body').animate({scrollTop:$(this.hash).offset().top},1000);
+		});
+	});
+</script>
+<!-- //end-smooth-scrolling -->	
+<!-- smooth-scrolling-of-move-up -->
+	<script type="text/javascript">
+		$(document).ready(function() {
+			/*
+			var defaults = {
+				containerID: 'toTop', // fading element id
+				containerHoverID: 'toTopHover', // fading element hover id
+				scrollSpeed: 1200,
+				easingType: 'linear' 
+			};
+			*/
+			
+			$().UItoTop({ easingType: 'easeOutQuart' });
+			
+		});
+	</script>
+	<!-- //smooth-scrolling-of-move-up -->  	
 <!-- Facebook Share -->
 	<div id="fb-root"></div>
 	<script>(function(d, s, id) {
