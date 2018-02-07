@@ -24,7 +24,7 @@
   display: block;
   width: 25px;
   height: 3px;
-  background-color: #fff;
+  background-color: #2ebaef;
   -moz-transition-property: background-color, -moz-transform;
   -o-transition-property: background-color, -o-transform;
   -webkit-transition-property: background-color, -webkit-transform;
@@ -48,7 +48,7 @@
   background-color: transparent;
 }
 .hamburger.active .hamburger__icon:before, .hamburger.active .hamburger__icon:after {
-  background-color: #fff;
+  background-color: #2ebaef;
 }
 .hamburger.active .hamburger__icon:before {
   -moz-transform: translateY(7px) rotate(45deg);
